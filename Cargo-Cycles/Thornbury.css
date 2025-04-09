@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d7fcf9;
+}
+
+h1 {text-align: center;}
+
+
+.disclaimer{text-align: center;font-family: Arial, sans-serif;
+}
+
+/* Style for rider names */
+.rider-name {
+  text-align: center;
+  font-size: 1.2em;
+  color: #444;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.8em;
+  color: #665;
+  text-align: center;
+  padding: 10px;
+}
+
